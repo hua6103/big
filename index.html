@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="zh">
 <head>
@@ -8,16 +9,16 @@
   <script>
     const   clientWidth = document.documentElement.clientWidth
     const clientHeight = document.documentElement.clientHeight
-    const pageWidth = clientWidth / clientHeight <= 16 / 9 ? clientWidth : clientHeight * (16 / 9);
+    window.pageWidth = clientWidth / clientHeight <= 16 / 9 ? clientWidth : clientHeight * (16 / 9);
     const pageHeight = pageWidth / (16 / 9)
     const  string = `<style>html{
      font-size: ${pageWidth / 100}px
    }</style>`
     document.write(string)
   </script>
-<script type="module" crossorigin src="/assets/index.7d805053.js"></script>
-  <link rel="modulepreload" href="/assets/vendor.1939a222.js">
-  <link rel="stylesheet" href="/assets/index.262ef9fd.css">
+<script type="module" crossorigin src="./assets/index.435f51b0.js"></script>
+  <link rel="modulepreload" href="./assets/vendor.47221d20.js">
+  <link rel="stylesheet" href="./assets/index.04e93fe3.css">
 </head>
 <body>
 <div id="root"></div>
