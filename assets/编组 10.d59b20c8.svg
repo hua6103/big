@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="397px" height="356px" viewBox="0 0 399 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 10</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-12.000000, -87.000000)">
+            <g id="编组-10" transform="translate(12.524306, 88.139172)">
+                <g id="编组-8">
+                    <polygon id="路径-4" stroke="#3F465A" fill="#020913" points="31.7290181 2.84217094e-14 6.54558111 2.84217094e-14 0 15.5620715 0 354.225411 374.406183 354.225411 397.07405 331.199128 397.07405 29.8608279 57.2454062 29.8608279"></polygon>
+                    <path d="M70.6869893,1.76331509 L95.3111183,29.3608279 L57.4693749,29.3608279 L32.8452458,1.76331509 L70.6869893,1.76331509 Z" id="矩形" stroke="#18283C" fill="#072135"></path>
+                    <path d="M108.837825,1.76331509 L133.461954,29.3608279 L95.6202109,29.3608279 L70.9960819,1.76331509 L108.837825,1.76331509 Z" id="矩形备份-2" stroke="#18283C" fill="#092236"></path>
+                    <path d="M146.988661,1.76331509 L171.61279,29.3608279 L133.771047,29.3608279 L109.146918,1.76331509 L146.988661,1.76331509 Z" id="矩形备份-3" stroke="#18283C" fill="#092236"></path>
+                </g>
+                <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" letter-spacing="0.488571429" fill="#FFFFFF">
+                    <tspan x="15.5594079" y="22.8608279">1</tspan>
+                </text>
+                <text id="2" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" letter-spacing="0.488571429" fill="#587E9B">
+                    <tspan x="58.8314079" y="22.8608279">2</tspan>
+                </text>
+                <text id="3" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" letter-spacing="0.488571429" fill="#587E9B">
+                    <tspan x="97.8314079" y="22.8608279">3</tspan>
+                </text>
+                <text id="4" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" letter-spacing="0.488571429" fill="#587E9B">
+                    <tspan x="136.831408" y="22.8608279">4</tspan>
+                </text>
+                <polyline id="路径" stroke="#539FD2" points="383.475694 33.8608279 390.475694 33.8608279 390.475694 40.8608279"></polyline>
+                <polygon id="路径-5" fill="#6793B4" points="377.377287 332.482061 377.377287 343.604502 388.774395 332.482061"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

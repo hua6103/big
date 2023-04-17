@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="397px" height="356px" viewBox="0 0 399 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 9</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1504.000000, -87.000000)">
+            <g id="编组-9" transform="translate(1504.524306, 88.139172)">
+                <g id="编组-8备份" transform="translate(198.537025, 177.112705) scale(-1, 1) translate(-198.537025, -177.112705) translate(0.000000, 0.000000)">
+                    <polygon id="路径-4" stroke="#3F465A" fill="#020913" points="47.7290181 2.84217094e-14 6.54558111 2.84217094e-14 0 15.5620715 0 331.199128 24.5237046 354.225411 374.406183 354.225411 397.07405 354.225411 397.07405 331.199128 397.07405 29.8608279 73.2454062 29.8608279"></polygon>
+                    <path d="M96.8367877,1.76331509 L121.460917,29.3608279 L73.4693749,29.3608279 L48.8452458,1.76331509 L96.8367877,1.76331509 Z" id="矩形" stroke="#18283C" fill="#072135"></path>
+                    <path d="M144.836788,1.76331509 L169.460917,29.3608279 L121.469375,29.3608279 L96.8452458,1.76331509 L144.836788,1.76331509 Z" id="矩形备份-4" stroke="#18283C" fill="#072135"></path>
+                </g>
+                <polygon id="路径-5备份" fill="#6793B4" points="376.377287 333.482061 376.377287 344.604502 387.774395 333.482061"></polygon>
+                <text id="车辆" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" letter-spacing="0.488571429" fill="#FFFFFF">
+                    <tspan x="348.987122" y="22.8608279">车辆</tspan>
+                </text>
+                <text id="里程" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.38" fill="#587E9B">
+                    <tspan x="296.095694" y="20.8608279">里程</tspan>
+                </text>
+                <text id="时长" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.38" fill="#587E9B">
+                    <tspan x="249.095694" y="20.8608279">时长</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

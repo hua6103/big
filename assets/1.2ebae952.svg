@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="353px" height="181px" viewBox="0 0 353 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 13</title>
+    <defs>
+        <polygon id="path-1" points="0 37.2259182 0 180 320.543963 180 353 144.405809 353 0 31.9988013 0"></polygon>
+        <filter x="-0.1%" y="-0.3%" width="100.3%" height="101.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.362687222   0 0 0 0 0.662447088   0 0 0 0 0.871114537  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-984.000000, -432.000000)">
+            <g id="编组-13" transform="translate(984.000000, 432.000000)">
+                <g id="路径-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#020A17" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+<!--                -->
+                <polygon id="路径" fill="#17A6D8" points="35 8.98865931 35 31 15 31"></polygon>
+                <rect id="矩形" fill="#1B3955" x="10" y="43" width="332" height="2"></rect>
+                <rect id="矩形" fill="#4F7AA0" x="332" y="43" width="10" height="2"></rect>
+                <text id="浙A4590T" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" letter-spacing="0.488571429" fill="#FFFFFF">
+                    <tspan x="46.08" y="28">浙A4590T</tspan>
+                </text>
+                <text id="私家车" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" letter-spacing="0.325714286" fill="#FFFFFF">
+                    <tspan x="291.511429" y="28">私家车</tspan>
+                </text>
+                <polyline id="路径" stroke="#5D7C98" points="342 3 350 3 350 11"></polyline>
+                <text id="行驶公里数" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="0.38" fill="#BDBDBD">
+                    <tspan x="200.05" y="76">行驶公里数</tspan>
+                </text>
+                <text id="684KM" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.542857143" fill="#FFFFFF">
+                    <tspan x="279.422857" y="78">684KM</tspan>
+                </text>
+                <text id="49km/h" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.542857143" fill="#FFFFFF">
+                    <tspan x="279.422857" y="150">13%</tspan>
+                </text>
+                <text id="正常" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.542857143" fill="#4783BF">
+                    <tspan x="279.422857" y="114">正常</tspan>
+                </text>
+                <text id="行驶状态" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="0.38" fill="#BDBDBD">
+                    <tspan x="200.05" y="112">当前行驶状态</tspan>
+                </text>
+                <text id="行驶速度" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="0.38" fill="#BDBDBD">
+                    <tspan x="200.05" y="149">当前行程占比</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
